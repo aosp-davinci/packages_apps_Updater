@@ -14,11 +14,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<permissions>
-    <privapp-permissions package="org.lineageos.updater">
-        <permission name="android.permission.ACCESS_CACHE_FILESYSTEM"/>
-        <permission name="android.permission.REBOOT"/>
-        <permission name="android.permission.RECOVERY"/>
-        <permission name="android.permission.START_ACTIVITIES_FROM_BACKGROUND"/>
-    </privapp-permissions>
-</permissions>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="menu_update_recovery">পুনৰুদ্ধাৰ আপডেট কৰক</string>
+    <string name="toast_forced_update_recovery">এই ডিভাইচত Lineage পুনৰুদ্ধাৰ আপডেটসমূহ নিষ্ক্ৰিয় কৰাটো অসম্ভৱ।</string>
+</resources>
